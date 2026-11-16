@@ -11,3 +11,16 @@ generator client {
 datasource db {
   provider = "postgresql"
 }
+
+model Apartment {
+  id    Int    @id @default(autoincrement())
+  title String
+  description  String?
+  city String
+  address String
+  pricePerNight Int 
+  maxGuests Int
+  isActive Boolean @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
