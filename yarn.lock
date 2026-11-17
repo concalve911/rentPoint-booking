@@ -722,6 +722,11 @@
   resolved "https://registry.yarnpkg.com/@radix-ui/react-use-layout-effect/-/react-use-layout-effect-1.1.1.tgz#0c4230a9eed49d4589c967e2d9c0d9d60a23971e"
   integrity sha512-RbJRS4UWQFkzHTTwVymMTUv8EqYhOp8dOOviLj2ugtTiXRaRQS7GLGxZTLL1jWhMeoSCf5zmcZkqTl9IiYfXcQ==
 
+"@rentpoint/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@rentpoint/core/1.0.0/b299d897a12a7fa158707701de0bb8a772e03c83#b299d897a12a7fa158707701de0bb8a772e03c83"
+  integrity sha512-Wgr43ksKdZelZ4Kbr4RHwdkP3mw6ev2ZiIjxYvFZvbl80Kgb7lQI8LKgkrUYAaxZXg04VkiRGzXl3r5/FXwyBQ==
+
 "@rolldown/binding-android-arm-eabi@1.2.19":
   version "1.2.19"
   resolved "https://registry.yarnpkg.com/@rolldown/binding-android-arm-eabi/-/binding-android-arm-eabi-1.2.19.tgz#9525a98bc24c66c98a2b8131aa0a3dc577f9c42c"
